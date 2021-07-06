@@ -16,3 +16,6 @@ This is a basic implementation of using menu to change content
 
 **[thread.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/thread.py)**  
 This is a basic gui implementing the use of a thread
+
+**[tkinter_bar.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/tkinter_bar.py)**  
+This is just a basic implementation of a vertical bar chart with Tkinter
