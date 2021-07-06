@@ -2,8 +2,15 @@
 
 The descriptions are numbered alphabetically
 
+**[abq_data_entry.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/abq_data_entry.py)**  
+This is an implementation of an automatic data entry app following  
+code and insights from Alan D. Moore - Python GUI programming with Tkinter
+
 **[crude_python_shell.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/crude_python_shell.py)**  
 This is a replica of the proprietary python shell but with basic functionalities.
+
+**[file_directory_treeview.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/file_directory_treeview.py)**  
+This is a treeview demo showcasing file directories.
 
 **[font_test.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/font_test.py)**  
 This is a basic implementation of using a Button's callback to toggle a Label's settings
