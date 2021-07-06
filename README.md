@@ -8,6 +8,9 @@ This is a replica of the proprietary python shell but with basic functionalities
 **[font_test.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/font_test.py)**  
 This is a basic implementation of using a Button's callback to toggle a Label's settings
 
+**[helloView.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/helloView.py)**  
+This is a basic implementation of toggling a Label's text using a callback
+
 **[Login Replica](https://github.com/eaverine/GUIs-On-The-Way/tree/main/Login%20Replica)**  
 This is a replica of a basic login page with Account login page, New user creation page and Forgot password page.
 
