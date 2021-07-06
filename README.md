@@ -29,3 +29,12 @@ This is a basic gui implementing the use of a thread
 
 **[tkinter_bar.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/tkinter_bar.py)**  
 This is just a basic implementation of a vertical bar chart with Tkinter
+
+**[traffic_Lights.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/traffic_Lights.py)**  
+This uses the turtle module to create a traffic light simulation.
+
+**[turtle_Keypresses.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/turtle_Keypresses.py)**  
+This allows the user to create images, lines, e.t.c by controlling the turtle using keypresses.
+
+**[turtle_Mouse.py](https://github.com/eaverine/GUIs-On-The-Way/blob/main/turtle_Mouse.py)**  
+This allows the user to create images, lines, e.t.c by controlling the turtle using mouse clicks.
